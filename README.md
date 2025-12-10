@@ -1,4 +1,4 @@
 # anoop-demo
 this is my first git repository
-<br>
+"\n"
 author- anoop
